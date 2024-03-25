@@ -1,0 +1,130 @@
+body{
+    background-color: white;
+    
+}
+
+header{
+    text-align: center;
+   
+ 
+}
+
+.container{
+    gap: 643px;
+    text-align: center;
+}
+
+.nav{
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+     cursor: pointer;
+   padding-left: 300px;
+   padding-right: 300px;
+
+}
+
+.header_2{
+display: flex;
+gap: 40px;
+font-family: satoshi;
+
+padding-left: 800px;
+}
+
+.icons{
+    gap: 20px;
+}
+
+.cart_header{
+    background-image:url(https://fastly.picsum.photos/id/866/1440/704.jpg?hmac=eDd3BSGRVkKI5vEROdkd8reEKP5X6rWzuooJuUrnKqo)
+
+
+}
+
+.cart_header{
+    width: 1440px;
+    height: 704px;
+ padding-top: 15px;
+ gap: 15px;
+ color: #2a254b;
+   
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+
+.maineded{
+    display: flex;
+    gap: 300px;
+    padding-left: 80px;
+}
+
+.mained{
+    
+    width: Fixed (305px)px;
+    height: Hug (244px)px;
+    top: 150px;
+    left: 80px;
+    padding: 48px 30px 48px 48px;
+    gap: 10px;
+    opacity: 0px;
+background-color: #F9F9F9;
+
+}
+
+.cart_images{
+    display: flex;
+    gap: 200px;
+    padding: 100px;
+}
+
+.main_btn{
+    text-align: center;
+}
+
+.main_m{
+    width: 630px;
+    height: 478px;
+    background-color:#2a254b;
+    color:white;
+}
+
+.main_img{
+    display: flex;
+    gap: 300px;
+}
+
+.main_f{
+    background-image:url(https://fastly.picsum.photos/id/417/1440/444.jpg?blur=5&hmac=gjj5DKJfg815Bcv80H4zrW1w95CCMTrO4pkEM6EVSKA)
+}
+
+.main_f{
+    width: 1440px;
+    height: 444px;
+    color:white;
+    text-align: center;
+    padding-top: 222px;
+}
+
+.main_f button{
+    
+    background-color:#2a254b;
+    color:white;
+}
+
+.footer{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    gap: 200px;
+    background-color:#2a254b;
+    color:white;
+}
+
+.footer_1{
+   background-color:black;
+}
